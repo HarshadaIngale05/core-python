@@ -1,0 +1,11 @@
+a = int(input("Enter first no :"))
+b = int(input("Enter second no :"))
+c = int(input("Enter third no :"))
+
+print("addition of :", a ,"+", b ,"+", c ,"=", a+b+c)
+print("substraction of :", a ,"-", b ,"-", c ,"=", a-b-c)
+print("multiplication of :", a ,"*", b ,"*", c ,"=", a*b*c)
+print("division of :", a ,"/", b ,"/", c ,"=", a/b/c)
+print("mod of :", a ,"%", b ,"%", c ,"=", a%b%c)
+print("floor div of :", a ,"//", b ,"//", c ,"=", a//b//c)
+print("exponential of :", a ,"**", b ,"**", c ,"=", a**b**c)

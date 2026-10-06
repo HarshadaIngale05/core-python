@@ -1,0 +1,10 @@
+name = input("Enter ur name :")
+age = int(input("Enter ur age :"))
+stud_id = int(input("Enter ur id :"))
+city = input("Enter ur city :")
+gender = input("Enter ur gender :")
+mobno = int(input("Enter your mobile no :"))
+email = input("Enter ur email :")
+department = input("Enter ur department :")
+
+print(name,age,stud_id,city,gender,mobno,email,department)
